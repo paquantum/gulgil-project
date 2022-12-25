@@ -49,11 +49,11 @@ add|코드나 문서가 추가된 경우
 <body>
 
 ## Commit Message Structure
-> 제목 (Subject)
-> (한줄 띄어 분리)
-> 본문 (Body)
-> (한줄 띄어 분리)
-> 꼬리말 (Footer)
+- 제목 (Subject)
+- (한줄 띄어 분리)
+- 본문 (Body)
+- (한줄 띄어 분리)
+- 꼬리말 (Footer)
 
 ### Subject
 - 제목은 50글자 이내로 작성한다.
